@@ -28,9 +28,6 @@ Actualmente estudio la Tecnicatura en Programación (UTN FRA) y desarrollo proye
 
 ## 📫 Contacto
 - ✉️ Email: **nahuelmelian47@gmail.com**  
-- 💬 Preguntame lo que necesites:  
-  👉 [Crear issue en mi perfil](https://github.com/nahu08/nahu08/issues)
-
 
 ---
 ## 🛠️ Tecnologías y Herramientas
