@@ -67,6 +67,7 @@ Actualmente estudio la Tecnicatura en Programación (UTN FRA) y desarrollo proye
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
+<!-- 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
@@ -75,11 +76,12 @@ Actualmente estudio la Tecnicatura en Programación (UTN FRA) y desarrollo proye
 ---
 
 </div>
+-->
+
 
 <br>
 <br>
 
-| Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
@@ -87,9 +89,9 @@ Actualmente estudio la Tecnicatura en Programación (UTN FRA) y desarrollo proye
 
 <div align="Center">
 
- Ultimate Streak |
- ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
+ | Ultimate Streak |
+ | ---------------|
+ |![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) |
 
 
 </div>
