@@ -21,7 +21,8 @@ Actualmente estudio la Tecnicatura en Programación (UTN FRA) y desarrollo proye
 
 ## 🚀 Sobre mí
 - 📚 Estudiante de **Programación (UTN FRA)**  
-- 💻 Enfocado en **Node.js, Express, Java, JavaFX, MySQL, MongoDB y Docker**  
+- 💻 Enfocado en **Node.js, Express, Java, JavaFX, MySQL, MongoDB y Docker**
+- 🔐 También estudio **Ciberseguridad por mi cuenta**, enfocándome en redes, hacking ético y buenas prácticas de seguridad.
 - 🧩 Me gusta diseñar proyectos completos: backend + frontend + base de datos  
 ---
 
