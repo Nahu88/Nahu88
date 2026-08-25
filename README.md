@@ -100,4 +100,4 @@ Actualmente estudio la Tecnicatura en Programación (UTN FRA) y desarrollo proye
 </div>
 
 ---
-© 2025 — Nahuel Melián
+© 2026 — Nahuel Melián
